@@ -63352,7 +63352,7 @@ return A.I(null,r)
 case 1:return A.H(p,r)}})
 return A.J($async$oV,r)}}
 A.UU.prototype={
-$1(a){return $.amx=B.c.hB(a/50)},
+$1(a){return $.amx=B.c.hB(a/100)},
 $S:67}
 A.cf.prototype={}
 A.Dd.prototype={
@@ -63446,14 +63446,14 @@ return b.iJ(a)},
 $S:62}
 A.Pj.prototype={}
 A.UV.prototype={
-tb(a){var s=50
+tb(a){var s=100
 return this.a39(a)},
 a39(a){var s=0,r=A.K(t.J_),q,p=2,o,n=this,m,l,k,j,i,h
 var $async$tb=A.L(function(b,c){if(b===1){o=c
-s=p}while(true)switch(s){case 0:i=50
+s=p}while(true)switch(s){case 0:i=100
 p=4
 s=7
-return A.Q(n.a.cH("api/?key=46324991-08d5162223e626aa856989ca3&page="+a+"&per_page="+A.j(i)+"}"),$async$tb)
+return A.Q(n.a.cH("api/?key=46324991-08d5162223e626aa856989ca3&page="+a+"&per_page="+A.j(i)),$async$tb)
 case 7:m=c
 k=A.asW(t.a.a(m))
 q=new A.my(k,t.w6)
